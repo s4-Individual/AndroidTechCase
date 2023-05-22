@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "168583318056",
+    "project_id": "techcase-b34a4",
+    "storage_bucket": "techcase-b34a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168583318056:android:48bff45e650cbe06ce431d",
+        "android_client_info": {
+          "package_name": "com.brettmulder.techcase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168583318056-iu883f1v0l1shv9ecn7nbh13pr5n9hvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brettmulder.techcase",
+            "certificate_hash": "5e84e1271cd92ab1984549b0f418454b0bb9a1ea"
+          }
+        },
+        {
+          "client_id": "168583318056-5dvqoa2v43qcdmpo8rsk5ucm6sjuhi9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5k-ohPXxHkr0q9pJAH-fIG2m6cx2XFKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168583318056-5dvqoa2v43qcdmpo8rsk5ucm6sjuhi9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
